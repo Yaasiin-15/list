@@ -2,7 +2,8 @@ import React from 'react'
 
 function App() {
   const students = [
-    "Yaasiin Mohamud Abudllaahi"
+    "Yaasiin Mohamud Abudllaahi",
+    "Yasin Dev"
   
     
   ]
